@@ -1,4 +1,4 @@
-# Nerfies
+# MDMC
 
 The repository contains source code for the [MDMC webset](https://mdmc-4d.github.io/).
 
