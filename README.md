@@ -1,6 +1,6 @@
 # Nerfies
 
-This is the repository that contains source code for the [MDMC](https://mdmc-4d.github.io/).
+This is the repository that contains source code for the [MDMC webset](https://mdmc-4d.github.io/).
 
 If you find Nerfies useful for your work please cite:
 ```
